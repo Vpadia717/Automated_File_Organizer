@@ -38,4 +38,4 @@ If you would like to add or remove file types or directories, you can do so by e
 Contributions to File Sorter are welcome. If you find any bugs or have suggestions for new features, please submit an issue on the project's GitHub repository. Pull requests are also welcome.
 
 ### License
-`File Sorter` is licensed under the [MIT license](https://github.com/Vpadia717/File_Sorter/LICENSE). See the LICENSE file for details.
+`File Sorter` is licensed under the [MIT license](https://github.com/Vpadia717/File_Sorter/blob/main/LICENSE). See the LICENSE file for details.
