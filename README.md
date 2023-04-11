@@ -35,7 +35,7 @@ This script supports the following file types:
 If you would like to add or remove file types or directories, you can do so by editing the `DIRECTORIES` dictionary at the top of the `organize_junk` script. Simply add or remove file extensions and directory names as desired.
 
 ### Contributing
-Contributions to Automated File Organizer are welcome. If you find any bugs or have suggestions for new features, please submit an issue on the project's GitHub repository. Pull requests are also welcome.
+Contributions to `Automated File Organizer` are welcome. If you find any bugs or have suggestions for new features, please submit an issue on the project's GitHub repository. Pull requests are also welcome.
 
 ### License
 `Automated File Organizer` is licensed under the [MIT license](https://github.com/Vpadia717/Automated_File_Organizer/blob/main/LICENSE). See the LICENSE file for details.
