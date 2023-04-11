@@ -1,4 +1,4 @@
-# File Sorter
+# Automated File Organizer
 
 This Python script is designed to help you quickly and easily organize files in a directory based on their file type. The `organize_junk` function takes no arguments and works by scanning the current directory for files and then moving them to their respective subdirectories based on their file type.
 
@@ -35,7 +35,7 @@ This script supports the following file types:
 If you would like to add or remove file types or directories, you can do so by editing the `DIRECTORIES` dictionary at the top of the `organize_junk` script. Simply add or remove file extensions and directory names as desired.
 
 ### Contributing
-Contributions to File Sorter are welcome. If you find any bugs or have suggestions for new features, please submit an issue on the project's GitHub repository. Pull requests are also welcome.
+Contributions to Automated File Organizer are welcome. If you find any bugs or have suggestions for new features, please submit an issue on the project's GitHub repository. Pull requests are also welcome.
 
 ### License
-`File Sorter` is licensed under the [MIT license](https://github.com/Vpadia717/File_Sorter/blob/main/LICENSE). See the LICENSE file for details.
+`Automated File Organizer` is licensed under the [MIT license](https://github.com/Vpadia717/Automated_File_Organizer/blob/main/LICENSE). See the LICENSE file for details.
